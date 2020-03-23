@@ -1,1 +1,1 @@
-# MoneyHeisth-ckGTBIT
+T&CApllied
