@@ -94,7 +94,7 @@ pycorenlp==0.3.0
 pycountry==19.8.18
 Pydap==3.2.2
 pydeck==0.2.0
-Pygments==2.5.2
+Pygments==2.7.4
 PyInstaller==3.6
 pyLDAvis==2.1.2
 pylint==2.4.3
